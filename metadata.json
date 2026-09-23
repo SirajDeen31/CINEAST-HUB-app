@@ -1,0 +1,6 @@
+{
+  "name": "CINEAST HUB",
+  "description": "Screenplay writing studio with real-time collaboration, cloud-based formatting tools, visual storyboard creator, character notes, and industry-standard PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
